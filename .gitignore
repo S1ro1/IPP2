@@ -1,0 +1,7 @@
+__pycache__
+*.xml
+*.pdf
+string_test
+ipp-2023-tests
+*.php
+*.html
